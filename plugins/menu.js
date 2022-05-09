@@ -24,7 +24,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *ANDREA BOT  ┃ ᴮᴼᵀ*  ────
 
 👋🏻 _Hola_ *%name*
 
@@ -32,10 +32,7 @@ const defaultMenu = {
 🧿 Nivel : *%level* 
 📊 Database: %rtotalreg de %totalreg
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/jeXHB0IIzCM
-▢ Descarga *FGWhatsApp*
-• https://fg98.epizy.com
+▢ OWNER PRINCIPAL 573125484672
 ─────────────
 %readmore
 Ⓟ = Premium
