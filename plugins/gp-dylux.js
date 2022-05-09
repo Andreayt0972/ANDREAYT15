@@ -1,21 +1,14 @@
 let handler = async m => m.reply(`
 
-≡  *DyLux  ┃ ᴮᴼᵀ*  
+≡  *Andrea  ┃ ᴮᴼᵀ*  
 
 ▢ GRUPOS
- https://instabio.cc/fg98ff
-
+ 
+https://chat.whatsapp.com/IYl8F2b6XIh1YIZmO0w0va
 ≡ Aɴᴅʀᴇᴀシ┃ᴮᴼᵀ⁩ ✨
 ▢ GRUPOS
-https://chat.whatsapp.com/LroudEJYhMf8XCUr7IDm5H
 
-
-▢ *Grupo Telegram*
- https://t.me/fgawgp
-
-▢ *YouTube*
-• https://www.youtube.com/fg98f
-
+https://chat.whatsapp.com/KBv52eah0Tk0EaJ3MUx74W
 
 `.trim())
 handler.help = ['gpdylux']
