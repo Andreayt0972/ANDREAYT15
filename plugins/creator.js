@@ -5,7 +5,7 @@ function handler(m) {
   m.reply(`
 *≡ OWNER*
 
-▢ WHASAP  :wa.me/57311548672
+▢ WHASAP  :wa.me/57312548672
 ▢ WhatsApp :
   • wa.me/573125484672
 `) 
